@@ -16,6 +16,7 @@ get '/' do
 end
 
 get '/address' do
+  content_type(:json)
   wordformatter = Wordformatter.new()
   address = {
     address: '3 ARGYLE HOUSE',
