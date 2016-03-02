@@ -1,0 +1,22 @@
+body {
+  background-color: #d3d3d3;
+}
+
+.wrapper {
+  
+}
+
+h1 {
+  color: navy;
+  font-weight: bold;
+}
+
+p {
+  color: #008B8B;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+span {
+  color: red;
+}
